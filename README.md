@@ -45,7 +45,7 @@ The master database registry view below confirms that the logical network subnet
 
 The physical topology layout below outlines our active Packet Tracer implementation workspace before command configurations are executed:
 
-![Cisco Packet Tracer Topology](images/01_packet_tracer_topology.png)
+![Cisco Packet Tracer Topology](images/01_packet-tracer_topology.png)
 
 Execute the following configuration blocks across your network devices sequentially, one device at a time.
 
